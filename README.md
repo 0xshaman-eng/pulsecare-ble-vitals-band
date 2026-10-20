@@ -140,8 +140,6 @@ The device restarts advertising automatically when the phone disconnects, so it 
 - **Cloud Firestore:** stores readings as timestamped records and handles live syncing to the guardian.
 - **SOS flow:** button long-press → BLE notification → app → Firestore → guardian alerted.
 
-> The Flutter source code was lost due to a hardware failure on the development machine. The compiled app is still available: download **`app-release.apk`** from the **[Releases](../../releases)** page and install it on an Android phone.
-
 ## Health Background
 
 | Measurement | How it's measured | Normal range | Concern |
