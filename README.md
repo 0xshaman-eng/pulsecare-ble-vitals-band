@@ -21,7 +21,6 @@
 
 PulseCare is an end-to-end IoT health-monitoring prototype that covers **embedded firmware, wireless communication, a mobile app, a cloud backend, and a custom 3D-printed enclosure**. A wrist-worn device measures heart rate and blood-oxygen saturation, shows the readings on an OLED display, and streams them over Bluetooth Low Energy to an Android app. The app syncs the data to Cloud Firestore so a guardian can follow the patient in real time, and a long press on the device's button sends an emergency SOS alert.
 
-It was designed and built by a team of three as a semester project at the **Department of Electrical and Electronic Engineering, University of Peradeniya**.
 
 <p align="center">
   <img src="Images/device-illustration.png" alt="PulseCare concept illustration" width="300">
